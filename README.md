@@ -1,9 +1,9 @@
-namern-mirror / Ãû×Ö¾º¼¼³¡¾µÏñ
+namern-mirror / åå­—ç«æŠ€åœºé•œåƒ
 
 ---
 
-ÍøÒ³ÓÎÏ·[Ãû×Ö¾º¼¼³¡](https://deepmess.com/namerena/)µÄ·Ç¹Ù·½¾µÏñÕ¾¡£
+ç½‘é¡µæ¸¸æˆ[åå­—ç«æŠ€åœº](https://deepmess.com/namerena/)çš„éå®˜æ–¹é•œåƒç«™ã€‚
 
-Ìá¹©»ùÓÚ [tinman00.github.io](https://github.com/tinman00/tinman00.github.io) µÄ [10%](https://sqrt2802.github.io/namern-mirror/fast1.html) ºÍ [100%](https://sqrt2802.github.io/namern-mirror/fast2.html) ÆÀ·Ö¼ÓËÙ¹¦ÄÜ£¬ÔÚÔ­ repo µÄ»ù´¡ÉÏ¼ò»¯ÁËÒ»Ğ©ÎÄ¼ş½á¹¹£¬¿ÉÄÜ¶ÔÌá¸ß¿É¶ÁĞÔÓĞ°ïÖú¡£
+æä¾›åŸºäº [tinman00.github.io](https://github.com/tinman00/tinman00.github.io) çš„ [10%](https://namerena.pages.dev/fast1) å’Œ [100%](https://namerena.pages.dev/fast2) è¯„åˆ†åŠ é€ŸåŠŸèƒ½ï¼Œåœ¨åŸ repo çš„åŸºç¡€ä¸Šç®€åŒ–äº†ä¸€äº›æ–‡ä»¶ç»“æ„ï¼Œå¯èƒ½å¯¹æé«˜å¯è¯»æ€§æœ‰å¸®åŠ©ã€‚
 
-°İĞ»ÓÎÏ·Ô­×÷Õß [Rinick](https://github.com/rinick) Ğ»Ğ»ß÷¡£
+æ‹œè°¢æ¸¸æˆåŸä½œè€… [Rinick](https://github.com/rinick) è°¢è°¢å–µã€‚
