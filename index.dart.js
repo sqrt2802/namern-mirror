@@ -4459,8 +4459,7 @@ c.aZ(p)
 document.adoptNode(p)
 return p},
 cH(a,b,c){return this.U(a,b,c,null)},
-b_(a,b,c){a.textContent=null
-a.appendChild(this.U(a,b,null,c))},
+b_(a,b,c){a.textContent=null},
 gbJ(a){return a.tagName},
 gbB(a){return new W.br(a,"mousedown",!1,t.G)},
 $io:1}
